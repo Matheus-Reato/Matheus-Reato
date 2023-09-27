@@ -14,6 +14,7 @@
 
 ### Languages
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/pt-BR/)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
 
 ### Technologies & Frameworks
